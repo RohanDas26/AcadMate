@@ -79,3 +79,8 @@ This application is a Progressive Web App, which means it can be "installed" on 
 -   **How to Install:** In your browser's address bar (like Chrome or Edge), look for an "Install" icon (usually looks like a computer with a down arrow). Click it to add AcadMate to your device.
 
 ---
+
+# UI preview gallery:
+
+
+
