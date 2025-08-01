@@ -81,6 +81,6 @@ This application is a Progressive Web App, which means it can be "installed" on 
 ---
 
 # UI preview gallery:
-![IMG1](/AcadMate (preview)/WhatsApp Image 2025-08-01 at 10.03.35_c33825e5.jpg).
+![IMG1](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.03.35_c33825e5.jpg?raw=true)
 
 
