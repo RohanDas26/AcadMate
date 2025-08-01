@@ -81,6 +81,6 @@ This application is a Progressive Web App, which means it can be "installed" on 
 ---
 
 # UI preview gallery:
-
+![IMG1](WhatsApp Image 2025-08-01 at 10.03.35_c33825e5.jpg)
 
 
